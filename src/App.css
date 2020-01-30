@@ -59,6 +59,8 @@
 }
 .app-msg-show-item-avatar {
   margin-right: 16px;
+  font-size: smaller;
+  color: #a9a9a9;
 }
 .app-msg-show-item-text {
   display: flex;
